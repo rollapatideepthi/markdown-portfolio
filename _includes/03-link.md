@@ -1,2 +1,0 @@
-[GitHub](http://github.com)
-
